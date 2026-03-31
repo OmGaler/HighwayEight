@@ -1,12 +1,12 @@
 export const FONT_FAMILY = "IsraeliRoad";
 
-import { NIMBUS_BOLD_DATA_URL } from "./nimbus-bold-data.mjs";
+import { NIMBUS_BOLD_DATA_URL } from "./assets/nimbus-bold-data.mjs";
 
 export const FONT_VARIANTS = {
   
   nimbusBold: {
     label: "Nimbus Sans Bold",
-    fileName: "NimbusSans-Bold.ttf",
+    fileName: "assets/NimbusSans-Bold.ttf",
     format: "truetype",
     weight: 700,
     dataUrl: NIMBUS_BOLD_DATA_URL,
@@ -406,5 +406,5 @@ export function buildSignSvg(typeKey, roadNumber, options = {}) {
 }
 
 export function buildFileName(typeKey, roadNumber) {
-  return `highway-1-sign-${typeKey}-${roadNumber}`;
+  return `highwayeight-sign-${typeKey}-${roadNumber}`;
 }

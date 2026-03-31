@@ -1,15 +1,15 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/OmGaler/HighwayOne/blob/master/README.md) [![he](https://img.shields.io/badge/lang-he-blue.svg)](https://github.com/OmGaler/HighwayOne/blob/master/README-he.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/OmGaler/HighwayEight/blob/master/README.md) [![he](https://img.shields.io/badge/lang-he-blue.svg)](https://github.com/OmGaler/HighwayEight/blob/master/README-he.md)
 
 <div dir="rtl">
 
-# HighwayOne
+# HighwayEight
 
 כלי פשוט ליצירת שלטי כבישי ישראלי.  
-[הפעל את HighwayOne](https://omgaler.github.io/HighwayOne/)
+[הפעל את HighwayEight](https://omgaler.github.io/HighwayEight/)
 
 ## סקירה כללית
 
-HighwayOne הוא כלי קל מינימלי ליצירת שילוט כבישים ישראליים ישירות בדפדפן. ניתן להזין מספר וסוג כביש ולקבל שלט מעוצב בהתאם לשיטת הצבעים המוכרת של שילוט הדרכים בישראל.
+HighwayEight הוא כלי קל מינימלי ליצירת שילוט כבישים ישראליים ישירות בדפדפן. ניתן להזין מספר וסוג כביש ולקבל שלט מעוצב בהתאם לשיטת הצבעים המוכרת של שילוט הדרכים בישראל.
 
 האפליקציה:
 

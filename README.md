@@ -1,13 +1,13 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/OmGaler/HighwayOne/blob/master/README.md) [![he](https://img.shields.io/badge/lang-he-blue.svg)](https://github.com/OmGaler/HighwayOne/blob/master/README-he.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/OmGaler/HighwayEight/blob/master/README.md) [![he](https://img.shields.io/badge/lang-he-blue.svg)](https://github.com/OmGaler/HighwayEight/blob/master/README-he.md)
 
-# HighwayOne
+# HighwayEight
 
 A minimal web app for generating Israeli-style highway route shields.
-[Launch HighwayOne](https://omgaler.github.io/HighwayOne/)
+[Launch HighwayEight](https://omgaler.github.io/HighwayEight/)
 
 ## Overview
 
-HighwayOne is a lightweight tool for rendering Israeli road number shields directly in the browser. It allows you to input a route number and generate a stylised shield matching the familiar colour-coded system used on Israeli roads.
+HighwayEight is a lightweight tool for rendering Israeli road number shields directly in the browser. It allows you to input a route number and generate a stylised shield matching the familiar colour-coded system used on Israeli roads.
 
 The app is designed to be:
 

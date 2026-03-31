@@ -11,7 +11,7 @@ import {
   buildSignSvg,
   sanitiseRoadNumber,
   validateRoadNumber
-} from "./sign-core.mjs";
+} from "../sign-core.mjs";
 
 test("sanitiseRoadNumber keeps digits only and caps length at four", () => {
   assert.equal(sanitiseRoadNumber(" 43-1a "), "431");
@@ -50,5 +50,5 @@ test("buildSignSvg falls back to the category sample for preview output", () => 
 });
 
 test("buildFileName uses the road type and number", () => {
-  assert.equal(buildFileName("national", "431"), "highway-1-sign-national-431");
+  assert.equal(buildFileName("national", "431"), "highwayeight-sign-national-431");
 });
