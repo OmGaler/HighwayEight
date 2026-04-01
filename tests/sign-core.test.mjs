@@ -28,6 +28,10 @@ test("validateRoadNumber enforces the Israeli route digit rules", () => {
     valid: false,
     message: "כבישים אזוריים ממוספרים במספר תלת־ספרתי."
   });
+  assert.deepEqual(validateRoadNumber("local", "202"), {
+    valid: false,
+    message: "כבישים מקומיים ממוספרים במספר ארבע־ספרתי."
+  });
   assert.deepEqual(validateRoadNumber("local", "2022"), { valid: true, message: "מוכן להורדה." });
 });
 

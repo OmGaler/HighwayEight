@@ -250,7 +250,7 @@ export function getRuleText(config) {
   }
 
   if (config.minDigits === 4 && config.maxDigits === 4) {
-    return `${ruleLabel} ממוספרים במספר בן ארבע ספרות.`;
+    return `${ruleLabel} ממוספרים במספר ארבע־ספרתי.`;
   }
 
   if (config.minDigits === config.maxDigits) {
